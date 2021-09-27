@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\clark-master"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\pure-one-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "clyde-master"
+	}
+}
